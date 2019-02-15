@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/React-test-app/precache-manifest.3055f799c5b2ed96b465d9ca9a248e72.js"
+  "/React-Scoreboard-App/precache-manifest.5188be4f8a09e9a0193980b3f395504d.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/React-test-app/index.html", {
+workbox.routing.registerNavigationRoute("/React-Scoreboard-App/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

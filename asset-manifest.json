@@ -1,11 +1,11 @@
 {
-  "main.js": "/React-test-app/static/js/main.4040d18f.chunk.js",
-  "main.js.map": "/React-test-app/static/js/main.4040d18f.chunk.js.map",
-  "runtime~main.js": "/React-test-app/static/js/runtime~main.d5921203.js",
-  "runtime~main.js.map": "/React-test-app/static/js/runtime~main.d5921203.js.map",
-  "static/js/2.b15e085b.chunk.js": "/React-test-app/static/js/2.b15e085b.chunk.js",
-  "static/js/2.b15e085b.chunk.js.map": "/React-test-app/static/js/2.b15e085b.chunk.js.map",
-  "index.html": "/React-test-app/index.html",
-  "precache-manifest.3055f799c5b2ed96b465d9ca9a248e72.js": "/React-test-app/precache-manifest.3055f799c5b2ed96b465d9ca9a248e72.js",
-  "service-worker.js": "/React-test-app/service-worker.js"
+  "main.js": "/React-Scoreboard-App/static/js/main.4040d18f.chunk.js",
+  "main.js.map": "/React-Scoreboard-App/static/js/main.4040d18f.chunk.js.map",
+  "runtime~main.js": "/React-Scoreboard-App/static/js/runtime~main.5db2d8dd.js",
+  "runtime~main.js.map": "/React-Scoreboard-App/static/js/runtime~main.5db2d8dd.js.map",
+  "static/js/2.b15e085b.chunk.js": "/React-Scoreboard-App/static/js/2.b15e085b.chunk.js",
+  "static/js/2.b15e085b.chunk.js.map": "/React-Scoreboard-App/static/js/2.b15e085b.chunk.js.map",
+  "index.html": "/React-Scoreboard-App/index.html",
+  "precache-manifest.5188be4f8a09e9a0193980b3f395504d.js": "/React-Scoreboard-App/precache-manifest.5188be4f8a09e9a0193980b3f395504d.js",
+  "service-worker.js": "/React-Scoreboard-App/service-worker.js"
 }
