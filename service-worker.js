@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/React-Scoreboard-App/precache-manifest.5188be4f8a09e9a0193980b3f395504d.js"
+  "/React-Scoreboard-App/precache-manifest.351cd0c136f06a60e8784e7986b4c5c5.js"
 );
 
 workbox.clientsClaim();
